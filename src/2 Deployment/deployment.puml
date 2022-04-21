@@ -1,0 +1,21 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Deployment.puml
+
+LAYOUT_WITH_LEGEND()
+
+Deployment_Node(server, "Serveur", "Ubuntu 20.04"){
+        Deployment_Node(Nginx, "Nginx", "Nginx"){
+            Container(spa, "Single Page Application", "Angular 12", "Fournir toutes les fonctionalites a l'utilisateurs via le navigateur")
+            Container(api, "API ", "ExpressJs", "Fournir toutes les fonctionalites via JSON/HTTP API.")
+        }
+            Container_Ext(ext, "SITE LE MONDE ", "RSS", "Fournir toutes les fonctionalites via XML/HTTPS .")
+     Container(db, "Base de donnees", "MongoDb", "Stocker les donnees du systeme de facons permanentes .")
+
+}
+
+
+BiRel(spa, api, "Utiliser", "json/HTTPS")
+BiRel(api, db, "Utiliser", "json/HTTPS")
+Rel(api, ext, "Recuperer flux via /refresh", "xml/HTTPS")
+
+@enduml

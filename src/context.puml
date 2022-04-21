@@ -1,0 +1,16 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(user, "Utilisateur", "Un utilisateur du systeme")
+System(sys_intern, " Systeme de  Gestion Flux RSS", "Permet aux utilisateurs de gerer les articles avec pagination.")
+System_Ext(sys_ex, "Generateur de flux ", "Systeme qui genere des flux RSS  (Le monde) ")
+
+Rel(user, sys_intern, "voir article")
+Rel(user, sys_intern, "modifier le titre")
+Rel(user, sys_intern, "modifier l'extrait")
+
+Rel(sys_intern, sys_ex, "Recuperer le flux RSS ",XML)
+
+@enduml

@@ -1,0 +1,868 @@
+{
+  "rss": {
+    "channel": {
+      "title": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+      "description": "Le Monde.fr - 1er site d’information. Les articles du journal et toute l’actualité en continu : International, France, Société, Economie, Culture, Environnement, Blogs ...",
+      "copyright": "Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : droitsdauteur@lemonde.fr",
+      "link": [
+        "https://www.lemonde.fr/rss/en_continu.xml",
+        ""
+      ],
+      "pubDate": "Mon, 18 Apr 2022 18:29:15 +0000",
+      "language": "fr",
+      "item": [
+        {
+          "title": {
+            "__cdata": " Streaming musical : surfant sur un marché porteur, Deezer prépare son entrée en Bourse, fin juillet "
+          },
+          "pubDate": "Mon, 18 Apr 2022 20:18:41 +0200",
+          "description": {
+            "__cdata": " I2PO va fusionner avec la plate-forme musicale, valorisée à plus d’un milliard d’euros, pour lui donner les moyens de sa croissance. "
+          },
+          "guid": "https://www.lemonde.fr/economie/article/2022/04/18/streaming-musical-surfant-sur-un-marche-porteur-deezer-prepare-son-entree-en-bourse-fin-juillet_6122684_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2022/04/18/streaming-musical-surfant-sur-un-marche-porteur-deezer-prepare-son-entree-en-bourse-fin-juillet_6122684_3234.html",
+          "content": {
+            "description": "Petit concurrent de Spotify (le numéro un mondial annonçait 172 millions d’abonnés fin octobre 2021) et d’Apple Music (60 millions mi-2019, selon les derniers chiffres disponibles), Deezer en revendiquait 9,6 millions fin 2021.",
+            "credit": "LIONEL BONAVENTURE / AFP"
+          }
+        },
+        "...",
+        "...",
+        "...",
+        {
+          "title": {
+            "__cdata": " Faire ses courses sous l’œil d’une intelligence artificielle ? Comment les supermarchés, profitant d’un flou juridique, sophistiquent la détection des vols "
+          },
+          "pubDate": "Mon, 18 Apr 2022 01:35:09 +0200",
+          "description": {
+            "__cdata": " Face à la recrudescence des vols dans les magasins, les enseignes testent des solutions qui automatisent leur détection. La CNIL vient d’achever une consultation publique afin de prendre position. Son avis est attendu prochainement. "
+          },
+          "guid": "https://www.lemonde.fr/economie/article/2022/04/18/faire-ses-courses-sous-l-il-d-une-intelligence-artificielle_6122576_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2022/04/18/faire-ses-courses-sous-l-il-d-une-intelligence-artificielle_6122576_3234.html",
+          "content": {
+            "credit": "AUREL"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Entre télétravail et « flex office », Deloitte abandonne un nouvel immeuble à la City de Londres "
+          },
+          "pubDate": "Mon, 18 Apr 2022 17:53:32 +0200",
+          "description": {
+            "__cdata": " En un an, le géant de l’audit et du conseil a cédé un tiers de sa surface de bureaux dans la capitale britannique. Il assure que cela n’aura aucune incidence sur l’emploi "
+          },
+          "guid": "https://www.lemonde.fr/economie/article/2022/04/18/entre-teletravail-et-flex-office-deloitte-abandonne-un-nouvel-immeuble-a-la-city-de-londres_6122666_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2022/04/18/entre-teletravail-et-flex-office-deloitte-abandonne-un-nouvel-immeuble-a-la-city-de-londres_6122666_3234.html",
+          "content": {
+            "description": "Les bureaux de Deloitte, à Londres, en septembre 2017.",
+            "credit": "DANIEL LEAL / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " La suppression du corps diplomatique actée au « Journal officiel », l’opposition proteste "
+          },
+          "pubDate": "Mon, 18 Apr 2022 17:26:12 +0200",
+          "description": {
+            "__cdata": " Les hauts fonctionnaires des affaires étrangères vont entrer dans un pot commun d’administrateurs de l’Etat, qui auront vocation à évoluer d’un ministère à un autre tout au long de leur carrière. Une mesure qui a suscité la colère des diplomates. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/reforme-de-la-haute-fonction-publique-la-suppression-du-corps-diplomatique-actee-au-journal-officiel_6122664_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/reforme-de-la-haute-fonction-publique-la-suppression-du-corps-diplomatique-actee-au-journal-officiel_6122664_3210.html",
+          "content": {
+            "description": "Le ministère des affaires étrangères en 2014.",
+            "credit": "Frédéric Soreau / Photononstop"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Suivez la campagne présidentielle en direct "
+          },
+          "pubDate": "Mon, 18 Apr 2022 17:09:12 +0200",
+          "description": {
+            "__cdata": " A six jours du second tour de l’élection présidentielle, Emmanuel Macron poursuit sa tournée des médias. Après France Culture et « Quotidien », le candidat de La République en marche répond aux questions de France 5. "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/live/2022/04/18/presidentielle-2022-pour-emmanuel-macron-le-second-tour-contre-marine-le-pen-sera-un-referendum-pour-ou-contre-l-europe-pour-ou-contre-l-ecologie_6122600_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/live/2022/04/18/presidentielle-2022-pour-emmanuel-macron-le-second-tour-contre-marine-le-pen-sera-un-referendum-pour-ou-contre-l-europe-pour-ou-contre-l-ecologie_6122600_6059010.html",
+          "content": {
+            "credit": "PASCAL ROSSIGNOL / REUTERS"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine : pourquoi la Turquie est devenue l’arbitre du conflit en mer Noire "
+          },
+          "pubDate": "Mon, 18 Apr 2022 11:06:36 +0200",
+          "description": {
+            "__cdata": " La fermeture du Bosphore, décidée par Ankara, empêche la Russie d’envoyer des renforts navals dans la zone. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/la-turquie-arbitre-du-conflit-dans-la-mer-noire_6122623_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/la-turquie-arbitre-du-conflit-dans-la-mer-noire_6122623_3210.html",
+          "content": {
+            "description": "Un drone Bayraktar TB2, de fabrication turque, présenté lors de la répétition d’un défilé militaire dans une rue de Kiev, le 20 août 2021.",
+            "credit": "Efrem Lukatsky / AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " A Paris, un service hospitalier de pointe menacé de fermeture "
+          },
+          "pubDate": "Mon, 18 Apr 2022 15:00:02 +0200",
+          "description": {
+            "__cdata": " A l’hôpital Saint-Louis, le manque d’infirmiers de nuit met en grande difficulté un service d’hématologie, alerte l’équipe soignante, qui craint de devoir fermer « à très court terme ». "
+          },
+          "guid": "https://www.lemonde.fr/societe/article/2022/04/18/a-paris-un-service-hospitalier-de-pointe-menace-de-fermeture_6122650_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2022/04/18/a-paris-un-service-hospitalier-de-pointe-menace-de-fermeture_6122650_3224.html",
+          "content": {
+            "description": "Chambre de l’hôpital Saint-Louis, à Paris, le 28 mai 2020.",
+            "credit": "MARTIN BUREAU / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Football : « la lutte pour le maintien, une vraie compétition et beaucoup d’émotions » "
+          },
+          "pubDate": "Mon, 18 Apr 2022 14:23:47 +0200",
+          "description": {
+            "__cdata": " Quand le titre de champion de France de Ligue 1 est joué d’emblée, les joutes du bas de tableau ont des charmes autrement plus puissants. "
+          },
+          "guid": "https://www.lemonde.fr/football/article/2022/04/18/football-la-lutte-pour-le-maintien-une-vraie-competition-et-beaucoup-d-emotions_6122644_1616938.html",
+          "link": "https://www.lemonde.fr/football/article/2022/04/18/football-la-lutte-pour-le-maintien-une-vraie-competition-et-beaucoup-d-emotions_6122644_1616938.html",
+          "content": {
+            "description": "Les joueurs bordelais lors de leur victoire contre Metz, au stade Matmut-Atlantique de Bordeaux, le 10 avril.",
+            "credit": "ROMAIN PERROCHEAU / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Au Chili, le nouveau président de gauche annonce un plan de relance pour soutenir l’économie et un nouveau projet de retrait des fonds de pension "
+          },
+          "pubDate": "Mon, 18 Apr 2022 14:00:13 +0200",
+          "description": {
+            "__cdata": " Gabriel Boric, a détaillé une série de mesures destinées aux familles, à la création d’emplois et aux petites et moyennes entreprises. Le plan s’élève à 3,7 milliards de dollars (3,4 milliards d’euros). "
+          },
+          "guid": "https://www.lemonde.fr/economie/article/2022/04/18/au-chili-le-nouveau-president-de-gauche-annonce-un-plan-de-relance-pour-soutenir-l-economie-et-un-nouveau-projet-de-retrait-des-fonds-de-pension_6122643_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2022/04/18/au-chili-le-nouveau-president-de-gauche-annonce-un-plan-de-relance-pour-soutenir-l-economie-et-un-nouveau-projet-de-retrait-des-fonds-de-pension_6122643_3234.html",
+          "content": {
+            "description": "Le président chilien, Gabriel Boric, à Buenos Aires le 5 avril.",
+            "credit": "JUAN MABROMATA / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine : les drones Bayraktar, pomme de discorde entre Ankara et Moscou "
+          },
+          "pubDate": "Mon, 18 Apr 2022 13:30:09 +0200",
+          "description": {
+            "__cdata": " Les appareils fabriqués par une société turque auraient joué un rôle dans l’attaque du croiseur russe « Moskva », qui a coulé jeudi en mer Noire. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/guerre-en-ukraine-les-drones-bayraktar-pomme-de-discorde-entre-ankara-et-moscou_6122641_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/guerre-en-ukraine-les-drones-bayraktar-pomme-de-discorde-entre-ankara-et-moscou_6122641_3210.html",
+          "content": {
+            "description": "Un drone Bayraktar TB2 de fabrication turque lors d’une répétition d’un défilé militaire consacré au jour de l’indépendance à Kiev, le 20 août 2021.",
+            "credit": "Efrem Lukatsky / AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " La Turquie lance une nouvelle offensive contre le PKK en Irak "
+          },
+          "pubDate": "Mon, 18 Apr 2022 13:12:34 +0200",
+          "description": {
+            "__cdata": " Ankara mène de façon régulière des raids contre les positions de ce groupe kurde, qu’il qualifie de « terroriste ». "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/la-turquie-lance-une-nouvelle-offensive-contre-le-pkk-en-irak_6122640_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/la-turquie-lance-une-nouvelle-offensive-contre-le-pkk-en-irak_6122640_3210.html",
+          "content": {
+            "description": "Le ministre de la défense turc, Hulusi Akar, lors d’une réunion du conseil de l’Atlantique Nord avec la Géorgie et l’Ukraine, au siège de l’OTAN, à Bruxelles, le 17 février 2022.",
+            "credit": "Olivier Matthys / AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " On mange quoi ce midi ? 100 restaurants parisiens où déjeuner pour moins de 20 euros "
+          },
+          "pubDate": "Mon, 18 Apr 2022 10:00:14 +0200",
+          "description": {
+            "__cdata": " Envie d’œufs mimosa, d’empanadas, de bobun, de burger, de pâté en croûte ou d’un couscous ? Voici, pour chacun des 20 arrondissements parisiens, notre sélection de 5 tables pour se régaler sans se ruiner. "
+          },
+          "guid": "https://www.lemonde.fr/le-monde-passe-a-table/article/2022/04/18/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082232.html",
+          "link": "https://www.lemonde.fr/le-monde-passe-a-table/article/2022/04/18/on-mange-quoi-ce-midi-100-restaurants-parisiens-ou-dejeuner-pour-moins-de-20-euros_6122615_6082232.html",
+          "content": {
+            "credit": "Emilie MAUGER"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Climat : « Nous sommes pacifistes et allons bloquer l’accès au Mcdonald’s dans le calme » "
+          },
+          "pubDate": "Mon, 18 Apr 2022 12:05:44 +0200",
+          "description": {
+            "__cdata": " Des militants d’Extinction Rebellion ont empêché l’accès à deux fast-food dimanche, « symboles de la malbouffe ». L’action s’est déroulée dans le calme, en marge de l’occupation de la porte Saint-Denis par un millier de manifestants depuis samedi à Paris. "
+          },
+          "guid": "https://www.lemonde.fr/planete/article/2022/04/18/climat-des-militants-d-extinction-rebellion-ont-bloque-l-acces-a-deux-fast-foods-a-paris_6122637_3244.html",
+          "link": "https://www.lemonde.fr/planete/article/2022/04/18/climat-des-militants-d-extinction-rebellion-ont-bloque-l-acces-a-deux-fast-foods-a-paris_6122637_3244.html",
+          "content": {
+            "description": "Des militants d’Extinction Rebellion bloquent l’entrée du McDonald’s à l’angle des boulevards Saint-Denis et Sébastopol à Paris, le 17 avril 2022.",
+            "credit": "BENJAMIN CARROT"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " En Corse, la recrudescence des incendies fait craindre un retour de la lutte clandestine "
+          },
+          "pubDate": "Mon, 18 Apr 2022 11:18:13 +0200",
+          "description": {
+            "__cdata": " Depuis l’agression d’Yvan Colonna le 2 mars, huit résidences secondaires ont été visées sur l’île. "
+          },
+          "guid": "https://www.lemonde.fr/societe/article/2022/04/18/en-corse-la-recrudescence-des-incendies-fait-craindre-un-retour-de-la-lutte-clandestine_6122630_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2022/04/18/en-corse-la-recrudescence-des-incendies-fait-craindre-un-retour-de-la-lutte-clandestine_6122630_3224.html",
+          "content": {
+            "description": "Le reflet d’un feu de palettes et poubelles lors d’une manifestation en soutien à la famille Colonna, à Ajaccio, le 3 avril 2022.",
+            "credit": "KAMIL ZIHNIOGLU POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Catherine Spaak, figure de la comédie italienne de l’après-guerre, est morte "
+          },
+          "pubDate": "Mon, 18 Apr 2022 11:17:20 +0200",
+          "description": {
+            "__cdata": " Victime en 2020 d’une hémorragie cérébrale, l’actrice belgo-italienne s’est éteinte à Rome, à l’âge de 77 ans. "
+          },
+          "guid": "https://www.lemonde.fr/disparitions/article/2022/04/18/catherine-spaak-figure-de-la-comedie-italienne-d-apres-guerre-est-morte_6122629_3382.html",
+          "link": "https://www.lemonde.fr/disparitions/article/2022/04/18/catherine-spaak-figure-de-la-comedie-italienne-d-apres-guerre-est-morte_6122629_3382.html",
+          "content": {
+            "description": "Catherine Spaak dans La Chevauchée terrible d’Anthony M. Dawson en 1975.",
+            "credit": "BERNSEN LUDWIG BERCOVICI PRODUCTION /The Ronald Grant Archive / Photononstop"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " En Belgique, Ferrero sous pression après la détection de salmonelles dans son usine Kinder "
+          },
+          "pubDate": "Mon, 18 Apr 2022 11:06:57 +0200",
+          "description": {
+            "__cdata": " L’entreprise reconnaît avoir détecté mi-décembre la présence de bactéries à salmonelle dans son usine d’Arlon, en Belgique, plus de trois mois avant que le site ne soit mis à l’arrêt. "
+          },
+          "guid": "https://www.lemonde.fr/planete/article/2022/04/18/en-belgique-ferrero-sous-pression-apres-la-detection-de-salmonelles-dans-son-usine-kinder_6122624_3244.html",
+          "link": "https://www.lemonde.fr/planete/article/2022/04/18/en-belgique-ferrero-sous-pression-apres-la-detection-de-salmonelles-dans-son-usine-kinder_6122624_3244.html",
+          "content": {
+            "description": "L’entrée de l’usine Ferrero à Arlon, en Belgique, le 8 avril 2022.",
+            "credit": "ERIC LALMAND / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Entretien avec la philosophe Claire Marin : « On peut faire une place à l’autre sans perdre la sienne » "
+          },
+          "pubDate": "Mon, 18 Apr 2022 01:13:56 +0200",
+          "description": {
+            "__cdata": " Dans un entretien au « Monde », la philosophe de l’intime évoque cette inquiétude ontologique d’être remplacé et constate que « nous ne sommes sans doute jamais vraiment dans une pure adéquation à l’instant ou à nous-mêmes ». "
+          },
+          "guid": "https://www.lemonde.fr/idees/article/2022/04/18/claire-marin-on-peut-faire-une-place-a-l-autre-sans-perdre-la-sienne_6122574_3232.html",
+          "link": "https://www.lemonde.fr/idees/article/2022/04/18/claire-marin-on-peut-faire-une-place-a-l-autre-sans-perdre-la-sienne_6122574_3232.html",
+          "content": {
+            "credit": "Yann Legendre"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine en direct : l’UE condamne les « bombardements aveugles » menés par la Russie ; Moscou dit avoir détruit un dépôt d’armes étrangères dans l’ouest du pays "
+          },
+          "pubDate": "Mon, 18 Apr 2022 10:11:38 +0200",
+          "description": {
+            "__cdata": " Au moins sept personnes sont mortes, lundi, après des bombardements russes sur la ville de Lviv, dans l’ouest du pays. De nouvelles frappes à Kharkiv, au nord-est, ont fait au moins trois morts. En parallèle, Kiev accuse la Russie de vouloir « détruire le Donbass ». "
+          },
+          "guid": "https://www.lemonde.fr/international/live/2022/04/18/guerre-en-ukraine-en-direct-les-frappes-sur-lviv-dans-l-ouest-du-pays-ont-fait-au-moins-sept-morts-les-combats-se-poursuivent-dans-le-donbass_6122592_3210.html",
+          "link": "https://www.lemonde.fr/international/live/2022/04/18/guerre-en-ukraine-en-direct-les-frappes-sur-lviv-dans-l-ouest-du-pays-ont-fait-au-moins-sept-morts-les-combats-se-poursuivent-dans-le-donbass_6122592_3210.html",
+          "content": {
+            "description": "Une femme pleure à côté du corps de son père, suite à un bombardement, à Kharkiv, en Ukraine, le 18 avril 2022.",
+            "credit": "ALKIS KONSTANTINIDIS / REUTERS"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " La croissance chinoise résiste au premier trimestre "
+          },
+          "pubDate": "Mon, 18 Apr 2022 10:11:25 +0200",
+          "description": {
+            "__cdata": " Le produit intérieur brut de l’empire du Milieu a progressé de 4,8 % sur les trois premiers mois de l’année. Mais l’activité devrait se tasser au second trimestre, en raison du confinement de la capitale économique, Shanghaï. "
+          },
+          "guid": "https://www.lemonde.fr/economie/article/2022/04/18/la-croissance-chinoise-resiste-au-premier-trimestre_6122616_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2022/04/18/la-croissance-chinoise-resiste-au-premier-trimestre_6122616_3234.html",
+          "content": {
+            "description": "Dans le quartier des affaires, à Pékin, le 18 avril 2022.",
+            "credit": "WANG ZHAO / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Didi, le « Uber chinois », annonce sa sortie de Wall Street "
+          },
+          "pubDate": "Mon, 18 Apr 2022 09:35:59 +0200",
+          "description": {
+            "__cdata": " Le régulateur chinois avait lancé une enquête contre le leader local des VTC au lendemain de son introduction en Bourse, en juin 2021. "
+          },
+          "guid": "https://www.lemonde.fr/economie/article/2022/04/18/didi-le-uber-chinois-annonce-sa-sortie-de-wall-street_6122612_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2022/04/18/didi-le-uber-chinois-annonce-sa-sortie-de-wall-street_6122612_3234.html",
+          "content": {
+            "description": "Siège de Didi à Pékin, le 2 juillet 2022.",
+            "credit": "JADE GAO / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Le « Magical Mystery Tour » de la romancière Lydie Salvayre à travers la Seine-Saint-Denis "
+          },
+          "pubDate": "Mon, 18 Apr 2022 08:07:23 +0200",
+          "description": {
+            "__cdata": " La 13e édition du festival Hors limites proposait, samedi 16 avril, un astucieux « bibliotourbus » en compagnie de l’écrivaine. "
+          },
+          "guid": "https://www.lemonde.fr/culture/article/2022/04/18/le-magical-mystery-tour-de-la-romanciere-lydie-salvayre-a-travers-la-seine-saint-denis_6122604_3246.html",
+          "link": "https://www.lemonde.fr/culture/article/2022/04/18/le-magical-mystery-tour-de-la-romanciere-lydie-salvayre-a-travers-la-seine-saint-denis_6122604_3246.html",
+          "content": {
+            "description": "La comédienne Marilyne Canto (à gauche) et la romancière Lydie Salvayre (à droite), samedi 16 avril 2022, à Villepinte (Seine-Saint-Denis).",
+            "credit": "CHARLÈNE YVES"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Le Printemps de Bourges retrouve ses marques "
+          },
+          "pubDate": "Mon, 18 Apr 2022 07:00:25 +0200",
+          "description": {
+            "__cdata": " La programation de cette 46e édition, qui se déroule du 19 au 24 avril, propose un dosage entre vedettes aux découvertes. "
+          },
+          "guid": "https://www.lemonde.fr/culture/article/2022/04/18/le-printemps-de-bourges-retrouve-ses-marques_6122596_3246.html",
+          "link": "https://www.lemonde.fr/culture/article/2022/04/18/le-printemps-de-bourges-retrouve-ses-marques_6122596_3246.html",
+          "content": {
+            "description": "La 46e édition du festival du Printemps de Bourges se déroulera du 19 au 24 avril.",
+            "credit": "ARTHUR BETBEDER/PRINTEMPS DE BOURGES"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " En Inde, Modi sans réaction face à un déferlement de haine envers les musulmans "
+          },
+          "pubDate": "Mon, 18 Apr 2022 06:10:36 +0200",
+          "description": {
+            "__cdata": " Le nord de Delhi, comme de nombreux Etats dans le pays, a été le théâtre d’affrontements communautaires, samedi, à l’occasion de fêtes hindoues. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/en-inde-des-fetes-religieuses-hindoues-entrainent-un-deferlement-de-violence-contre-les-musulmans_6122594_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/en-inde-des-fetes-religieuses-hindoues-entrainent-un-deferlement-de-violence-contre-les-musulmans_6122594_3210.html",
+          "content": {
+            "description": "Policiers déployés dans le quartier de Jahangirpuri, au nord de Delhi, le 17 avril 2022.",
+            "credit": "MONEY SHARMA / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Présidentielle : les risques et les incohérences du programme économique de Marine Le Pen "
+          },
+          "pubDate": "Mon, 18 Apr 2022 05:45:10 +0200",
+          "description": {
+            "__cdata": " Derrière des propositions d’apparence séduisante sur le pouvoir d’achat, la candidate du RN présente un projet largement inapplicable, inégalitaire et en rupture avec l’Union européenne. "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/18/presidentielle-2022-les-risques-et-les-incoherences-du-programme-economique-de-marine-le-pen_6122590_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/18/presidentielle-2022-les-risques-et-les-incoherences-du-programme-economique-de-marine-le-pen_6122590_6059010.html",
+          "content": {
+            "description": "Des tracts Marine Le Pen dans un bus de campagne, à Soucy (Yonne), le 11 avril 2022.",
+            "credit": "AGNES DHERBEYS / MYOP POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Chine : premiers morts dus au Covid-19 à Shanghaï depuis le début du confinement "
+          },
+          "pubDate": "Mon, 18 Apr 2022 04:54:46 +0200",
+          "description": {
+            "__cdata": " Pékin a annoncé un rebond de la croissance économique du pays, mais les défis sont nombreux, alors que la stratégie zéro Covid entrave la production et le commerce. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/chine-premiers-morts-dus-au-covid-19-a-shanghai-depuis-le-debut-du-confinement_6122584_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/chine-premiers-morts-dus-au-covid-19-a-shanghai-depuis-le-debut-du-confinement_6122584_3210.html",
+          "content": {
+            "description": "Les autorités pratiquent des tests quotidiens sur la population de Shanghaï, ici le 17 avril 2022 dans le district de Pudong.",
+            "credit": "LIU JIN / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " A Nevers, la seule maternité du département ferme ses portes temporairement "
+          },
+          "pubDate": "Mon, 18 Apr 2022 02:11:03 +0200",
+          "description": {
+            "__cdata": " En sous-effectif chronique faute de réussir à recruter, le centre hospitalier de la préfecture de la Nièvre a vu ses quatorze sages-femmes partir en arrêt-maladie. La profession s’alarme d’une pénurie de personnel à l’échelle nationale. "
+          },
+          "guid": "https://www.lemonde.fr/societe/article/2022/04/18/a-nevers-la-seule-maternite-du-departement-ferme-ses-portes-temporairement_6122578_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2022/04/18/a-nevers-la-seule-maternite-du-departement-ferme-ses-portes-temporairement_6122578_3224.html",
+          "content": {
+            "description": "L’entrée de la maternité de l’hôpital de Nevers, le 15 avril 2022.",
+            "credit": "JEAN-LUC LUYSSEN POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine : Kiev accuse les Russes de vouloir « détruire le Donbass » qui continuera d’être défendu "
+          },
+          "pubDate": "Mon, 18 Apr 2022 01:15:55 +0200",
+          "description": {
+            "__cdata": " L’est du pays reste sous la menace d’une vaste offensive de l’armée russe. Des frappes ont aussi visé dimanche Kharkiv, la deuxième ville du pays. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/18/l-ukraine-accuse-les-russes-de-vouloir-detruire-le-donbass-qui-continuera-d-etre-defendu_6122575_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/18/l-ukraine-accuse-les-russes-de-vouloir-detruire-le-donbass-qui-continuera-d-etre-defendu_6122575_3210.html",
+          "content": {
+            "description": "Un homme marche dans les ruines d’immeubles détruits, à Marioupol, en Ukraine, le 17 avril 2022.",
+            "credit": "ALEXANDER ERMOCHENKO / REUTERS"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Ligue 1 : le PSG s’offre Marseille sans panache et se rapproche du titre "
+          },
+          "pubDate": "Sun, 17 Apr 2022 23:37:42 +0200",
+          "description": {
+            "__cdata": " Mathématiquement, les Parisiens ne sont pas encore champions de France, mais avec 15 points d’avance sur le dauphin, ils pourraient être couronnés dès mercredi. "
+          },
+          "guid": "https://www.lemonde.fr/sport/article/2022/04/17/ligue-1-le-psg-s-offre-marseille-sans-panache-et-se-rapproche-du-titre_6122568_3242.html",
+          "link": "https://www.lemonde.fr/sport/article/2022/04/17/ligue-1-le-psg-s-offre-marseille-sans-panache-et-se-rapproche-du-titre_6122568_3242.html",
+          "content": {
+            "description": "L’attaquant brésilien du PSG Neymar face au défenseur de l’OM William Saliba le 17 avril 2022 au Parc des princes.",
+            "credit": "THOMAS COEX / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " L’Etat islamique promet de « venger » son ancien chef, tué en Syrie "
+          },
+          "pubDate": "Sun, 17 Apr 2022 22:58:01 +0200",
+          "description": {
+            "__cdata": " Le 3 février, le président américain Joe Biden avait annoncé la mort d’Abou Ibrahim Al-Hachimi Al-Qourachi, qui s’était fait exploser au cours d’une opération des forces spéciales américaines. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/17/l-etat-islamique-promet-de-venger-son-ancien-chef-tue-en-syrie_6122567_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/17/l-etat-islamique-promet-de-venger-son-ancien-chef-tue-en-syrie_6122567_3210.html",
+          "content": {
+            "description": "Bombardements sur des positions de l’EI à Mosoul, en juillet 2017.",
+            "credit": "Felipe Dana / AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Architecture néoclassique, artistes célèbres, douceur de vivre… Odessa, mythique ville ukrainienne "
+          },
+          "pubDate": "Fri, 15 Apr 2022 03:46:51 +0200",
+          "description": {
+            "__cdata": " Sur les bords de la mer Noire, la ville ukrainienne fait rêver depuis deux siècles. Même si Vladimir Poutine vise l’est du pays, la cité insoumise redoute l’assaut de l’armée russe et se prépare à combattre. "
+          },
+          "guid": "https://www.lemonde.fr/m-le-mag/article/2022/04/15/odessa-histoire-d-un-mythe_6122241_4500055.html",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2022/04/15/odessa-histoire-d-un-mythe_6122241_4500055.html",
+          "content": {
+            "description": "La statue du duc de Richelieu, ancien gouverneur de la ville, a été mise à l’abri sous des sacs de sable, à Odessa (Ukraine), en mars 2022.",
+            "credit": "LAURENCE GEAI / MYOP POUR M LE MAGAZINE DU MONDE"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " PSG-OM : suivez en direct le classique de la L1 "
+          },
+          "pubDate": "Sun, 17 Apr 2022 18:45:14 +0200",
+          "description": {
+            "__cdata": " Le Paris-Saint-Germain, grâce à sa victoire (2-1) contre son dauphin l’Olympique de Marseille, se rapproche encore un peu plus d’un dixième titre de champion de France. "
+          },
+          "guid": "https://www.lemonde.fr/football/live/2022/04/17/psg-om-suivez-le-classique-de-la-ligue-1-en-direct_6122558_1616938.html",
+          "link": "https://www.lemonde.fr/football/live/2022/04/17/psg-om-suivez-le-classique-de-la-ligue-1-en-direct_6122558_1616938.html",
+          "content": {
+            "description": "Le milieu marseillais Gerson à la lutte avec le Parisien Marquinhos, dimanche 17 avril au Parc des Princes.",
+            "credit": "FRANCK FIFE / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " A Jérusalem, nouveaux heurts autour de l’esplanade des Mosquées "
+          },
+          "pubDate": "Sun, 17 Apr 2022 19:54:29 +0200",
+          "description": {
+            "__cdata": " De nouveaux incidents ont fait une vingtaine de blessés alors que se tenaient dimanche dans la Vieille Ville de Jérusalem des festivités chrétiennes pour Pâques, des prières pour Pessah, la pâque juive, et pour le mois musulman sacré de ramadan. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/17/a-jerusalem-la-tension-ne-retombe-pas-sur-l-esplanade-des-mosquees_6122562_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/17/a-jerusalem-la-tension-ne-retombe-pas-sur-l-esplanade-des-mosquees_6122562_3210.html",
+          "content": {
+            "description": "Des membres de la police aux frontières israélienne chassent des jeunes Palestiniens, dans la Vieille Ville de Jérusalem, dimanche 17 avril 2022.",
+            "credit": "AHMAD GHARABLI / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Cyclisme : le Néerlandais Dylan van Baarle remporte la 119e édition de Paris-Roubaix en solitaire "
+          },
+          "pubDate": "Sun, 17 Apr 2022 11:00:18 +0200",
+          "description": {
+            "__cdata": " Le coureur de l’équipe Ineos Grenadiers s’est adjugé la reine des classiques dimanche au vélodrome André-Pétrieux de Roubaix. "
+          },
+          "guid": "https://www.lemonde.fr/sport/live/2022/04/17/paris-roubaix-2022-suivez-la-reine-des-classiques-cyclistes-en-direct_6122539_3242.html",
+          "link": "https://www.lemonde.fr/sport/live/2022/04/17/paris-roubaix-2022-suivez-la-reine-des-classiques-cyclistes-en-direct_6122539_3242.html",
+          "content": {
+            "description": "Le Néerlandais Dylan Van Baarle franchit en solitaire la ligne d’arrivée de la 119e édition de Paris-Roubaix dimanche 17 avril 2022.",
+            "credit": "Michel Spingler / AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Tennis : Stefanos Tsitsipas conserve son titre à Monte-Carlo "
+          },
+          "pubDate": "Sun, 17 Apr 2022 16:40:33 +0200",
+          "description": {
+            "__cdata": " Le joueur grec a réalisé le doublé en s’imposant dimanche face à l’Espagnol Alejandro Davidovich Fokina (6/3-7/6) et s’affirme comme l’un des favoris pour la saison sur terre battue "
+          },
+          "guid": "https://www.lemonde.fr/sport/article/2022/04/17/tennis-stefanos-tsitsipas-conserve-son-titre-a-monte-carlo_6122552_3242.html",
+          "link": "https://www.lemonde.fr/sport/article/2022/04/17/tennis-stefanos-tsitsipas-conserve-son-titre-a-monte-carlo_6122552_3242.html",
+          "content": {
+            "description": "Stefanos Tsitsipas s’est imposé en finale du tournoi de Monte-Carlo, dimanche 17 avril, face à l’Espagnol Alejandro Davidovich Fokina (6/3-7/6).",
+            "credit": "VALERY HACHE / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Le cinéaste russe Kirill Serebrennikov : « Désormais, la question des crimes de guerre nous concerne particulièrement, personnellement » "
+          },
+          "pubDate": "Sat, 16 Apr 2022 17:00:22 +0200",
+          "description": {
+            "__cdata": " À l’affiche des prochains festivals de Cannes et d’Avignon, le cinéaste et metteur en scène russe, qui a pu quitter Moscou, où il était assigné à résidence, confie dans un entretien au « Monde » qu’il ne veut pas « être partie prenante de cette guerre ». "
+          },
+          "guid": "https://www.lemonde.fr/culture/article/2022/04/16/kirill-serebrennikov-on-etait-la-avant-poutine-on-espere-etre-la-apres_6122475_3246.html",
+          "link": "https://www.lemonde.fr/culture/article/2022/04/16/kirill-serebrennikov-on-etait-la-avant-poutine-on-espere-etre-la-apres_6122475_3246.html",
+          "content": {
+            "description": "Kirill Serebrennikov, cinéaste et metteur en scène russe, au Deutsches Theater, à Berlin, le 9 avril 2022.",
+            "credit": "LENA GIOVANAZZI POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Marine Le Pen assure n’avoir « jamais été climatosceptique » et se dit « victime d’anathème » sur l’écologie "
+          },
+          "pubDate": "Sun, 17 Apr 2022 16:03:31 +0200",
+          "description": {
+            "__cdata": " Le programme climatique et écologique de la candidate du Rassemblement national à l’élection présidentielle a été vivement critiqué par Emmanuel Macron, samedi à Marseille. "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/17/marine-le-pen-assure-n-avoir-jamais-ete-climatosceptique-et-deplore-etre-victime-d-anatheme-sur-l-ecologie_6122550_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/17/marine-le-pen-assure-n-avoir-jamais-ete-climatosceptique-et-deplore-etre-victime-d-anatheme-sur-l-ecologie_6122550_6059010.html",
+          "content": {
+            "description": "Marine Le Pen lors d’un déplacement de campagne dans l’exploitation d’un céréalier, à Soucy (Yonne), lundi 11 avril 2022.",
+            "credit": "AGNES DHERBEYS / MYOP POUR «LE MONDE»"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Chronique | « Les grands médias audiovisuels ont rendu presque impossible l’affirmation d’un débat politique sur l’environnement » "
+          },
+          "pubDate": "Sun, 17 Apr 2022 02:10:56 +0200",
+          "description": {
+            "__cdata": " Pourtant considérée comme une priorité par les Français, l’écologie a été presque absente des débats de la campagne présidentielle qui s’achève. La réticence médiatique à considérer l’urgence climatique comme un sujet politique majeur est l’une des explications à ce paradoxe, estime Stéphane Foucart, journaliste au « Monde », dans sa chronique. "
+          },
+          "guid": "https://www.lemonde.fr/idees/article/2022/04/17/la-ligne-editoriale-des-grands-medias-audiovisuels-a-rendu-presque-impossible-l-affirmation-d-un-debat-politique-sur-l-environnement_6122502_3232.html",
+          "link": "https://www.lemonde.fr/idees/article/2022/04/17/la-ligne-editoriale-des-grands-medias-audiovisuels-a-rendu-presque-impossible-l-affirmation-d-un-debat-politique-sur-l-environnement_6122502_3232.html",
+          "content": {
+            "description": "Des milliers de jeunes ont manifesté pour le climat et l’écologie, à Paris, le 25 mars 2022.",
+            "credit": "JEANNE FRANK/ DIVERGENCE POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine en direct : Marioupol toujours assiégée, bombardements à Kharkiv, calme précaire à Kramatorsk "
+          },
+          "pubDate": "Sun, 17 Apr 2022 12:28:02 +0200",
+          "description": {
+            "__cdata": " Le président ukrainien, qui a qualifié la situation à Marioupol d’« inhumaine », a appelé les Occidentaux à fournir les armes qu’il réclame. La Russie a demandé aux soldats ukrainiens retranchés de se rendre. "
+          },
+          "guid": "https://www.lemonde.fr/international/live/2022/04/17/guerre-en-ukraine-en-direct-marioupol-toujours-assiegee-bombardements-a-kharkiv-calme-precaire-a-kramatorsk_6122511_3210.html",
+          "link": "https://www.lemonde.fr/international/live/2022/04/17/guerre-en-ukraine-en-direct-marioupol-toujours-assiegee-bombardements-a-kharkiv-calme-precaire-a-kramatorsk_6122511_3210.html",
+          "content": {
+            "description": "En ce dimanche des Rameaux, les habitants restés à Kramatorsk profitent d’une accalmie, dans cette ville de l’est de l’Ukraine sous la menace d’une offensive russe.",
+            "credit": "Petros Giannakouris / AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Présidentielle : les sympathisants de LFI et les soutiens de Mélenchon privilégient le choix d’un vote blanc au second tour "
+          },
+          "pubDate": "Sun, 17 Apr 2022 10:28:29 +0200",
+          "description": {
+            "__cdata": " Plus de 215 000 personnes ont participé à la consultation organisée par La France insoumise, dont les résultats sont semblables à celle organisée en 2017. "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/17/election-presidentielle-2022-le-choix-d-un-vote-blanc-au-second-tour-arrive-en-tete-de-la-consultation-des-310-000-soutiens-de-jean-luc-melenchon_6122530_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/17/election-presidentielle-2022-le-choix-d-un-vote-blanc-au-second-tour-arrive-en-tete-de-la-consultation-des-310-000-soutiens-de-jean-luc-melenchon_6122530_6059010.html",
+          "content": {
+            "description": "Jean-Luc Mélenchon arrive sur la scène du Cirque d’hiver pour prononcer son discours après les résultats du premier tour de l’élection présidentielle, le dimanche 10 avril 2022.",
+            "credit": "EMMANUEL DUNAND / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Carnets d’exil de douze familles | Pour un mois, une année ou toujours, ils ont quitté l’Ukraine pour la France "
+          },
+          "pubDate": "Sat, 16 Apr 2022 03:54:59 +0200",
+          "description": {
+            "__cdata": " ÉPISODE 1. Adieu Lviv, Odessa ou Tcherkassy et bonjour Strasbourg, Selles-Saint-Denis, Asnières, Dijon… Toute cette année 2022, Le Monde suivra le quotidien de ces déracinés de la guerre "
+          },
+          "guid": "https://www.lemonde.fr/societe/article/2022/04/16/exiles-ukrainiens-en-france-a-2-000-kilometres-d-ici-je-sais-qu-il-y-a-un-autre-chez-nous-le-vrai_6122409_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2022/04/16/exiles-ukrainiens-en-france-a-2-000-kilometres-d-ici-je-sais-qu-il-y-a-un-autre-chez-nous-le-vrai_6122409_3224.html",
+          "content": {
+            "credit": "Benoît Guillaume"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Religion | Le baptême pascal plébiscité par les adultes "
+          },
+          "pubDate": "Sun, 17 Apr 2022 08:00:08 +0200",
+          "description": {
+            "__cdata": " Samedi, pour la veillée pascale, plus de 4 000 personnes adultes ont été baptisées catholiques en France. Récemment attirées par la religion, croyantes depuis toujours ou en conversion, elles entrent par ce sacrement dans la communauté des chrétiens. "
+          },
+          "guid": "https://www.lemonde.fr/le-monde-des-religions/article/2022/04/17/le-bapteme-pascal-plebiscite-par-les-adultes_6122522_6038514.html",
+          "link": "https://www.lemonde.fr/le-monde-des-religions/article/2022/04/17/le-bapteme-pascal-plebiscite-par-les-adultes_6122522_6038514.html",
+          "content": {
+            "description": "Touché par la prière du chapelet, Eric Girard a décidé de se convertir au catholicisme (église des Réformés, Marseille).",
+            "credit": "JUSTINE RODIER"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " La Corée du Nord teste un nouveau système d’armement qui doit améliorer l’efficacité de son arsenal nucléaire "
+          },
+          "pubDate": "Sun, 17 Apr 2022 02:13:24 +0200",
+          "description": {
+            "__cdata": " Sans préciser quand ce nouveau tir a eu lieu, l’agence de presse officielle nord-coréenne affirme que ce test a été un succès. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/17/la-coree-du-nord-teste-un-nouveau-systeme-d-armement-qui-doit-ameliorer-l-efficacite-de-son-arsenal-nucleaire_6122503_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/17/la-coree-du-nord-teste-un-nouveau-systeme-d-armement-qui-doit-ameliorer-l-efficacite-de-son-arsenal-nucleaire_6122503_3210.html",
+          "content": {
+            "description": "Photo publiée le 17 avril par l’agence de presse officielle nord-coréenne montrant le tir d’essai d’un nouveau missile, effectué à une date inconnue.",
+            "credit": "STR / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Aux frontières grecques, les réfugiés continuent d’être refoulés "
+          },
+          "pubDate": "Sun, 17 Apr 2022 01:28:46 +0200",
+          "description": {
+            "__cdata": " Si les Ukrainiens sont accueillis sans réserve, les autres exilés se voient de plus en plus souvent refuser l’entrée du pays, parfois avec violence, dénonce notamment l’ONG Human Rights Watch. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/17/aux-frontieres-grecques-les-refugies-continuent-d-etre-refoules_6122501_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/17/aux-frontieres-grecques-les-refugies-continuent-d-etre-refoules_6122501_3210.html",
+          "content": {
+            "description": "Des gendarmes turcs dans le district d’Ispala, à la frontière avec la Grèce, après la découverte des cadavres de sept migrants, le 3 février 2022.",
+            "credit": "GOKHAN BALCI / Anadolu Agency via AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Les patrons de la CFDT et de la CGT craignent le « scénario catastrophe » d’une élection de Marine Le Pen "
+          },
+          "pubDate": "Sun, 17 Apr 2022 01:14:08 +0200",
+          "description": {
+            "__cdata": " Laurent Berger et Philippe Martinez appellent à « ne pas confier les clés de la démocratie » au RN, dans un texte commun paru dans le « Journal du dimanche ». "
+          },
+          "guid": "https://www.lemonde.fr/politique/article/2022/04/17/les-patrons-de-la-cfdt-et-de-la-cgt-craignent-scenario-catastrophe-d-une-election-de-marine-le-pen_6122499_823448.html",
+          "link": "https://www.lemonde.fr/politique/article/2022/04/17/les-patrons-de-la-cfdt-et-de-la-cgt-craignent-scenario-catastrophe-d-une-election-de-marine-le-pen_6122499_823448.html",
+          "content": {
+            "description": "Le secrétaire général de la CGT Philippe Martinez quitte l’Hôtel de Matignon, en décembre 2019.",
+            "credit": "THOMAS SAMSON / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " « Voter ne suffit plus. » A Paris, Extinction Rebellion se lance dans une action massive de désobéissance civile "
+          },
+          "pubDate": "Sun, 17 Apr 2022 00:27:32 +0200",
+          "description": {
+            "__cdata": " Un millier de manifestants bloquent depuis samedi la porte Saint-Denis, dans le centre de la capitale, pour dénoncer l’inaction climatique des dirigeants et proposer un futur « vivable et juste pour tous ». "
+          },
+          "guid": "https://www.lemonde.fr/planete/article/2022/04/17/voter-ne-suffit-plus-a-paris-extinction-rebellion-se-lance-dans-une-action-massive-de-desobeissance-civile_6122496_3244.html",
+          "link": "https://www.lemonde.fr/planete/article/2022/04/17/voter-ne-suffit-plus-a-paris-extinction-rebellion-se-lance-dans-une-action-massive-de-desobeissance-civile_6122496_3244.html",
+          "content": {
+            "description": "Des militants du mouvement Extinction Rebellion, rue du faubourg Saint-Denis, à Paris, le 16 avril 2022.",
+            "credit": "Benjamin Carrot pour « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Le couple Biden a déclaré un peu plus de 600 000 dollars de revenus en 2021 "
+          },
+          "pubDate": "Sat, 16 Apr 2022 20:05:24 +0200",
+          "description": {
+            "__cdata": " Joe Biden a fait campagne sur la transparence de ses finances personnelles, en publiant vingt-deux années de déclarations de revenus avant l’élection de 2020, défiant Donald Trump, qui a soutenu pendant des années qu’un audit l’empêchait de publier ses impôts. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/16/le-couple-biden-a-declare-un-peu-plus-de-600-000-dollars-de-revenus-en-2021_6122490_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/16/le-couple-biden-a-declare-un-peu-plus-de-600-000-dollars-de-revenus-en-2021_6122490_3210.html",
+          "content": {
+            "description": "Le couple Biden, le 20 mars 2022 à la Maison Blanche, à Washington.",
+            "credit": "ALEXANDER DRAGO / REUTERS"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Législatives : Olivier Faure tend la main à Jean-Luc Mélenchon pour des négociations, le Parti communiste prêt à discuter avec LFI "
+          },
+          "pubDate": "Sat, 16 Apr 2022 19:56:26 +0200",
+          "description": {
+            "__cdata": " Alors que La France insoumise a proposé vendredi aux écologistes et aux communistes de former une coalition pour les législatives, mais en excluant le Parti socialiste, Olivier Faure assure qu’il est « prêt à engager un dialogue » dans un entretien publié par « Libération ». "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/16/legislatives-olivier-faure-tend-la-main-a-jean-luc-melenchon-pour-des-negociations-le-parti-communiste-pret-a-discuter-avec-lfi_6122489_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/16/legislatives-olivier-faure-tend-la-main-a-jean-luc-melenchon-pour-des-negociations-le-parti-communiste-pret-a-discuter-avec-lfi_6122489_6059010.html",
+          "content": {
+            "description": "Olivier Faure à son arrivée à la soirée électorale d’Anne Hidalgo, candidate PS à la présidentielle 2022, au Poinçon, à Paris, le 10 avril 2022.",
+            "credit": "MARLENE AWAAD / IP3 POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Emmanuel Macron promet à Marseille un second mandat qui « sera écologique ou ne sera pas » "
+          },
+          "pubDate": "Sat, 16 Apr 2022 18:47:43 +0200",
+          "description": {
+            "__cdata": " S’il est réélu, le président sortant a pris l’engagement d’un « renouvellement complet » de sa politique et a érigé le second tour de l’élection présidentielle en « choix de civilisation ». "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/16/emmanuel-macron-promet-a-marseille-un-second-mandat-qui-sera-ecologique-ou-ne-sera-pas_6122484_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/16/emmanuel-macron-promet-a-marseille-un-second-mandat-qui-sera-ecologique-ou-ne-sera-pas_6122484_6059010.html",
+          "content": {
+            "description": "Arrivée d’Emmanuel Macron pour son meeting au jardin du Pharo, à Marseille, samedi 16 avril 2022.",
+            "credit": "Jean-Claude Coutausse pour «LE MONDE»"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Ukraine | Pour le vice-gouverneur de Dnipro, « les Russes ont beaucoup volé dans leurs stocks d’armes. Ce qui explique la différence entre les objectifs et leur réalisation » "
+          },
+          "pubDate": "Sat, 16 Apr 2022 12:00:15 +0200",
+          "description": {
+            "__cdata": " Hennadi Korban, vice-gouverneur de la région de Dnipro, chargé de la sécurité, s’attend à ce que l’offensive russe sur le Donbass débute le 20 avril. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/16/nous-n-avons-pas-d-autre-option-que-de-gagner-ce-conflit_6122447_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/16/nous-n-avons-pas-d-autre-option-que-de-gagner-ce-conflit_6122447_3210.html",
+          "content": {
+            "description": "Hennadi Korban, vice gouverneur de la région de Dnipro, chargé des questions de sécurité. A Dnipro (Ukraine), le 14 avril 2022.",
+            "credit": "LAURENCE GEAI /MYOP POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Marine Le Pen soupçonnée de détournement d’argent public dans un nouveau rapport de l’Office antifraude de l’Union européenne "
+          },
+          "pubDate": "Sat, 16 Apr 2022 18:24:31 +0200",
+          "description": {
+            "__cdata": " Dans un rapport de l’OLAF révélé par « Mediapart », la candidate du Rassemblement national à la présidentielle et trois autres ex-députés européens sont accusés d’avoir détourné près de 620 000 euros d’argent public du Parlement de Strasbourg. "
+          },
+          "guid": "https://www.lemonde.fr/politique/article/2022/04/16/marine-le-pen-soupconnee-de-detournement-d-argent-public-dans-un-nouveau-rapport-de-l-office-antifraude-de-l-union-europeenne_6122481_823448.html",
+          "link": "https://www.lemonde.fr/politique/article/2022/04/16/marine-le-pen-soupconnee-de-detournement-d-argent-public-dans-un-nouveau-rapport-de-l-office-antifraude-de-l-union-europeenne_6122481_823448.html",
+          "content": {
+            "description": "Marine Le Pen lors d’un débat au Parlement européen de Strasbourg, le 7 octobre 2015.",
+            "credit": "VINCENT KESSLER / REUTERS"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Paris-Roubaix : Elisa Longo Borghini, un soleil italien dans l’« enfer du Nord » "
+          },
+          "pubDate": "Sat, 16 Apr 2022 17:57:04 +0200",
+          "description": {
+            "__cdata": " La coureuse italienne de la Trek-Segafredo s’est adjugé la deuxième édition de la « reine des classiques » à l’issue d’un raid en solitaire d’une trentaine de kilomètres. "
+          },
+          "guid": "https://www.lemonde.fr/sport/article/2022/04/16/paris-roubaix-elisa-longo-borghini-un-soleil-italien-dans-l-enfer-du-nord_6122477_3242.html",
+          "link": "https://www.lemonde.fr/sport/article/2022/04/16/paris-roubaix-elisa-longo-borghini-un-soleil-italien-dans-l-enfer-du-nord_6122477_3242.html",
+          "content": {
+            "description": "Elisa Longo Borghini (à gauche) à l’arrivée de la deuxième édition féminine de la classique Paris-Roubaix, le 16 avril 2022.",
+            "credit": "JEFF PACHOUD / AFP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Emmanuel Macron à Marseille pour un discours sur l’écologie, plus de cinquante manifestations en France pour dire « non à l’extrême droite » : retrouvez l’actualité politique du samedi 16 avril "
+          },
+          "pubDate": "Sat, 16 Apr 2022 17:35:05 +0200",
+          "description": {
+            "__cdata": " Le président candidat a fait du second tour de l’élection présidentielle un « choix de civilisation » face aux « dangers de l’extrême droite » et a annoncé vouloir confier l’écologie au premier ministre s’il était élu. "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/live/2022/04/16/a-marseille-emmanuel-macron-fait-du-vote-du-24-avril-un-choix-de-civilisation_6122459_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/live/2022/04/16/a-marseille-emmanuel-macron-fait-du-vote-du-24-avril-un-choix-de-civilisation_6122459_6059010.html",
+          "content": {
+            "credit": "JEAN-CLAUDE COUTAUSSE POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " A Shanghaï, colère et rébellions contre la violence du confinement "
+          },
+          "pubDate": "Sat, 16 Apr 2022 14:00:15 +0200",
+          "description": {
+            "__cdata": " Après plus d’un mois de restrictions et deux à trois semaines de confinement strict, les habitants de la métropole chinoise osent de plus en plus exprimer leur mécontentement face à des mesures qu’ils jugent « inhumaines ». "
+          },
+          "guid": "https://www.lemonde.fr/planete/article/2022/04/16/a-shanghai-colere-et-rebellions-contre-la-violence-du-confinement_6122458_3244.html",
+          "link": "https://www.lemonde.fr/planete/article/2022/04/16/a-shanghai-colere-et-rebellions-contre-la-violence-du-confinement_6122458_3244.html",
+          "content": {
+            "description": "Des barrières ont été dressées dans un quartier confiné, à Shanghaï (Chine), le 13 avril 2022.",
+            "credit": "ALY SONG / REUTERS"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Marine Le Pen occupe le terrain dans l’Eure-et-Loir avant le meeting d’Emmanuel Macron "
+          },
+          "pubDate": "Sat, 16 Apr 2022 15:00:25 +0200",
+          "description": {
+            "__cdata": " La candidate du Rassemblement national a répété son intention d’interdire le voile dans l’espace public, au lendemain d’un échange avec une dame âgée sur ce sujet dans la Vaucluse. "
+          },
+          "guid": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/16/marine-le-pen-occupe-le-terrain-dans-l-eure-et-loire-avant-le-meeting-d-emmanuel-macron_6122468_6059010.html",
+          "link": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/16/marine-le-pen-occupe-le-terrain-dans-l-eure-et-loire-avant-le-meeting-d-emmanuel-macron_6122468_6059010.html",
+          "content": {
+            "description": "Marine Le Pen en campagne dans la commune de Saint-Rémy-sur-Avre (Eure-et-Loir), samedi 16 avril 2022.",
+            "credit": "AGNES DHERBEYS/MYOP POUR « LE MONDE »"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine : le premier ministre britannique, Boris Johnson, interdit d’entrée en Russie "
+          },
+          "pubDate": "Sat, 16 Apr 2022 13:39:05 +0200",
+          "description": {
+            "__cdata": " Selon le ministère des affaires étrangères russe, cette mesure a été prise en réponse aux sanctions britanniques contre Moscou. L’interdiction concerne également d’autres responsables, comme le vice-premier ministre et la ministre des affaires étrangères. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/16/guerre-en-ukraine-le-premier-ministre-britannique-interdit-d-entree-en-russie_6122455_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/16/guerre-en-ukraine-le-premier-ministre-britannique-interdit-d-entree-en-russie_6122455_3210.html",
+          "content": {
+            "credit": "AP"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Tueur en série | La quête sans fin des chevaliers du « Zodiac » "
+          },
+          "pubDate": "Sat, 16 Apr 2022 03:00:13 +0200",
+          "description": {
+            "__cdata": " Pour ces milliers d’anonymes, il n’y a qu’un Graal : trouver l’identité du Zodiac, ce tueur en série qui sema la terreur dans la région de San Francisco au tournant des années 1970. Ce mois-ci, un Français sort un livre-enquête dont l’hypothèse agite cette drôle de communauté. "
+          },
+          "guid": "https://www.lemonde.fr/m-le-mag/article/2022/04/16/la-quete-sans-fin-des-chevaliers-du-zodiac_6122407_4500055.html",
+          "link": "https://www.lemonde.fr/m-le-mag/article/2022/04/16/la-quete-sans-fin-des-chevaliers-du-zodiac_6122407_4500055.html",
+          "content": {
+            "description": "Un des messages codé du « Zodiac ».",
+            "credit": "Bettmann archive via Getty Images"
+          }
+        },
+        {
+          "title": {
+            "__cdata": " Guerre en Ukraine : les scénarios militaires possibles dans le Donbass "
+          },
+          "pubDate": "Sat, 16 Apr 2022 11:07:27 +0200",
+          "description": {
+            "__cdata": " Chute de Marioupol, offensive générale à l’est ou encerclement… quelles sont les options militaires de la Russie ? Quelle résistance les Ukrainiens sont-ils capables d’opposer ? Le point avec des experts militaires. "
+          },
+          "guid": "https://www.lemonde.fr/international/article/2022/04/16/guerre-en-ukraine-les-scenarios-militaires-possibles-dans-le-donbass_6122441_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2022/04/16/guerre-en-ukraine-les-scenarios-militaires-possibles-dans-le-donbass_6122441_3210.html",
+          "content": {
+            "description": "Soldats ukrainiens sur un véhicule blindé, à Sievierodonetsk, dans le Donbass, le 7 avril 2022.",
+            "credit": "FADEL SENNA / AFP"
+          }
+        }
+      ]
+    }
+  }
+}
