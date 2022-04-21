@@ -57,4 +57,30 @@ interface bien définie.
 Represené  notre MCD (Model conceptuel de données) .
 
 
-# doc_mini_rss_reader-c4
+# Livrables
+
+- Repositories GIT :
+  Backend (SPRING ) :  https://github.com/coundia/mini_rss_reader_spring
+  Frontend (Angular)  : https://github.com/coundia/mini-rss-reader
+- Lien de tests
+  Front-end : https://mini-rss-reader.herokuapp.com/
+  Bakend Api : https://mini-rss-api.herokuapp.com/api/v1/rss/items
+- Lien Documentation avec le model C4
+  https://github.com/coundia/doc_mini_rss_reader-c4
+
+## Lancer le projet
+- Backend (spring)
+- mvn spring-boot:run
+
+- front end (angular)
+- npm  install
+- ng serve
+
+## Lien de test
+- front end
+- https://mini-rss-reader.herokuapp.com/
+
+- Backend
+- https://mini-rss-api.herokuapp.com/api/v1/rss/items
+- https://mini-rss-api.herokuapp.com/api/v1/rss/refresh
+- https://mini-rss-api.herokuapp.com/api/v1/rss/status
