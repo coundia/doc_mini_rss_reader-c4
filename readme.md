@@ -72,6 +72,7 @@ Represené  notre MCD (Model conceptuel de données) .
 - Backend (spring)
 - mvn spring-boot:run
 
+
 - front end (angular)
 - npm  install
 - ng serve
@@ -84,3 +85,16 @@ Represené  notre MCD (Model conceptuel de données) .
 - https://mini-rss-api.herokuapp.com/api/v1/rss/items
 - https://mini-rss-api.herokuapp.com/api/v1/rss/refresh
 - https://mini-rss-api.herokuapp.com/api/v1/rss/status
+
+
+## MODEL C4
+
+#Context 
+
+![Conext](context.png)
+
+## Architecture
+![Architecture](deployment.png)
+
+
+by coundia
