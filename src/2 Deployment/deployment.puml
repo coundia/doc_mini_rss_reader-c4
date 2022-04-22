@@ -3,19 +3,23 @@
 
 LAYOUT_WITH_LEGEND()
 
-Deployment_Node(server, "Serveur", "Ubuntu 20.04"){
-        Deployment_Node(Nginx, "Nginx", "Nginx"){
+Deployment_Node(server, "Serveur", "Cloud [Heroku]"){
+        Deployment_Node(Noed1, "Noed1", "Nginx"){
             Container(spa, "Single Page Application", "Angular 12", "Fournir toutes les fonctionalites a l'utilisateurs via le navigateur")
-            Container(api, "API ", "ExpressJs", "Fournir toutes les fonctionalites via JSON/HTTP API.")
         }
-            Container_Ext(ext, "SITE LE MONDE ", "RSS", "Fournir toutes les fonctionalites via XML/HTTPS .")
-     Container(db, "Base de donnees", "MongoDb", "Stocker les donnees du systeme de facons permanentes .")
+        Deployment_Node(Noed2, "Noed2", "JRE"){
+                    Container(spa, "Single Page Application", "Angular 12", "Fournir toutes les fonctionalites a l'utilisateurs via le navigateur")
+                    Container(api, "API ", "SPRING 5", "Fournir toutes les fonctionalites via JSON/HTTP API.")
+              Container(db, "Base de donnees", "Postgres", "Stocker les donnees du systeme de facons permanentes .")
+                }
+      Container_Ext(ext, "SITE LE MONDE ", "RSS", "Fournir toutes les fonctionalites via XML/HTTPS .")
+
 
 }
 
 
 BiRel(spa, api, "Utiliser", "json/HTTPS")
 BiRel(api, db, "Utiliser", "json/HTTPS")
-Rel(api, ext, "Recuperer flux via /refresh", "xml/HTTPS")
+Rel(ext,api, "Recuperer flux via /refresh", "xml/HTTPS")
 
 @enduml
