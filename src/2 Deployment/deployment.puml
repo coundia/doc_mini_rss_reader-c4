@@ -4,10 +4,10 @@
 LAYOUT_WITH_LEGEND()
 
 Deployment_Node(server, "Serveur", "Cloud [Heroku]"){
-        Deployment_Node(Noed1, "Noed1", "Nginx"){
+        Deployment_Node(Noeud1, "Noeud1", "Nginx"){
             Container(spa, "Single Page Application", "Angular 12", "Fournir toutes les fonctionalites a l'utilisateurs via le navigateur")
         }
-        Deployment_Node(Noed2, "Noed2", "JRE"){
+        Deployment_Node(Noeud2, "Noeud2", "JRE"){
                     Container(spa, "Single Page Application", "Angular 12", "Fournir toutes les fonctionalites a l'utilisateurs via le navigateur")
                     Container(api, "API ", "SPRING 5", "Fournir toutes les fonctionalites via JSON/HTTP API.")
               Container(db, "Base de donnees", "Postgres", "Stocker les donnees du systeme de facons permanentes .")
@@ -19,7 +19,7 @@ Deployment_Node(server, "Serveur", "Cloud [Heroku]"){
 
 
 BiRel(spa, api, "Utiliser", "json/HTTPS")
-BiRel(api, db, "Utiliser", "json/HTTPS")
+BiRel(api, db, "Utiliser", "JDBC")
 Rel(ext,api, "Recuperer flux via /refresh", "xml/HTTPS")
 
 @enduml
