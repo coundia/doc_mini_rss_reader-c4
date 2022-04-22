@@ -1,3 +1,5 @@
+# WIKI 
+
 # MINI PROJET FLUX RSS
 
 # Conext du projet
@@ -72,11 +74,12 @@ Representé notre MCD (Model conceptuel de données) .
 
 # Context
 
-![Conext](context.png)
+![Conext](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/context.png)
 
 ## Container (Architecture)
 
-![Architecture](container.png)
+![Architecture](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/container.png)
+
 
 
 ### Backend  ([SPRING](https://spring.io/why-spring))
@@ -130,5 +133,33 @@ Spring est un framework Java  open source .
 - [https://mini-rss-reader.herokuapp.com/](https://mini-rss-reader.herokuapp.com/)
 
 
+# Guide utilisateurs
 
-by coundia
+- Boutton pour recuperer les derniers articles depuis le monde.fr
+
+![Boutton pour recuperer les derniers articles depuis le monde.fr](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/recuperer.png)
+
+- Listes articles 
+
+![Listes articles](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/liste.png)
+
+- Modifier titre ou Description
+
+![Modifier titre ou Description](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/edit.png)
+
+- Résultat apres réactualisation de la page
+
+![resultat apres reactualisation de la page](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/resultat.png)
+
+- Pagination
+
+![Pagination](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/img.png)
+
+- PWA : Pour desktop et Mobile 
+
+![!PWA](https://raw.githubusercontent.com/coundia/mini-rss-reader/main/img_1.png)
+
+ 
+- P. Coundia 
+- PROGRAMME SOFTWARE ENGINEERING EDACY - DIGITAL AFRICA
+
